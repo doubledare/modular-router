@@ -1,0 +1,9 @@
+{
+  "name": "pathjs-router",
+  "description": "A client-side router utilizing PathJS.",
+  "homepage": "https://github.com/doubledare/pathjs-router",
+  "author": "Joc O'Connor <jocphone@gmail.com",
+  "version": "0.0.1",
+  "git": "https://github.com/doubledare/pathjs-router.git",
+  "packages": {}
+}
