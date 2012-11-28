@@ -1,9 +1,9 @@
 {
-  "name": "pathjs-router",
-  "description": "A client-side router utilizing PathJS.",
-  "homepage": "https://github.com/doubledare/pathjs-router",
+  "name": "modular-router",
+  "description": "A client-side modular router.",
+  "homepage": "https://github.com/doubledare/modular-router",
   "author": "Joc O'Connor <jocphone@gmail.com",
   "version": "0.0.1",
-  "git": "https://github.com/doubledare/pathjs-router.git",
+  "git": "https://github.com/doubledare/modular-router.git",
   "packages": {}
 }
