@@ -1,5 +1,5 @@
 
-Router = new Meteor.PathJSRouter
+Router = new Meteor.ModularRouter
 	routes:
 		"/": "home"
 		"/news": "news"

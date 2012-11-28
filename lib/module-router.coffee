@@ -1,6 +1,6 @@
 # modular-router
 
-class Meteor.PathJSRouter
+class Meteor.ModularRouter
 	constructor: ( options )->
 		console.log "New PathJSRouter."
 		if options?.routes? and _.isObject options.routes
