@@ -1,3 +1,4 @@
+# modular-router
 
 class Meteor.PathJSRouter
 	constructor: ( options )->
